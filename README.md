@@ -13,7 +13,7 @@ This Repo is used for assignments from the Advanced Data Science Bootcamp
   *This is just the final model build file, all EDA can be found in the jupyter notebook in the kickstarter repo*
 * **ADS04 - Time Series** 
   * Python file for Model Submission for Energy Consumption project  
-  * This is just the final model build file, all EDA can be found in the jupyter notebook in the forecasting energy repo*
+  *This is just the final model build file, all EDA can be found in the jupyter notebook in the forecasting energy repo*
 * **ADS05 - SQL** 
   * SQL Practice
 * **ADS06 - Big Data - Spark** 
@@ -22,7 +22,7 @@ This Repo is used for assignments from the Advanced Data Science Bootcamp
   * To upload
 * **ADS08 - Neural Networks** 
   * Python file for Model Submission for Zalando MNIST Classification Project  
-  * This is just the final model build file, all exploraotory work can be found in the jupyter notebook in the Zalando MNIST repo*
+  *This is just the final model build file, all exploraotory work can be found in the jupyter notebook in the Zalando MNIST repo*
   
   
   

@@ -18,6 +18,11 @@ This Repo is used for assignments from the Advanced Data Science Bootcamp
   * SQL Practice
 * **ADS06 - Big Data - Spark** 
   * Spark RDD Practice
+* **ADS07 - To Upload** 
+  * To upload
+* **ADS08 - Neural Networks** 
+  * Python file for Model Submission for Zalando MNIST Classification Project  
+  *This is just the final model build file, all exploraotory work can be found in the jupyter notebook in the Zalando MNIST repo*
   
   
   

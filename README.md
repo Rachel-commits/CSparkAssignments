@@ -22,7 +22,10 @@ This Repo is used for assignments from the Advanced Data Science Bootcamp
   * To upload
 * **ADS08 - Neural Networks** 
   * Python file for Model Submission for Zalando MNIST Classification Project  
-  *This is just the final model build file, all exploraotory work can be found in the jupyter notebook in the Zalando MNIST repo*
+  *This is just the final model build file, all exploraotory work can be found in the jupyter notebook in the Zalando MNIST repo**   
+* **ADS09- Natural Language Processing** 
+  * Topic Modelling - Classifying news articles. Python file and jupyter notebook
+ 
   
   
   
